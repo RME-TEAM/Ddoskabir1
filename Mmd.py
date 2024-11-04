@@ -7,7 +7,7 @@ from colorama import Fore, init
 init(autoreset=True)
 
 def show_menu():
-    print("Welcome to the progress bar simulation!")
+  
 
 
 n = 0
