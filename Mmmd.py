@@ -15,7 +15,7 @@ r = ""
 
 
 while n <= 100:
-    print(r, f"{Fore.LIGHTRED_EX}%{n}")
+    
     n += randint(1, 5)
     r += "="
     time.sleep(0.1)
