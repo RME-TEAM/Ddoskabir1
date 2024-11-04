@@ -4,6 +4,7 @@ from random import randint
 from colorama import Fore, init
 import socket
 import threading
+import PrettyTable
 
 init(autoreset=True)
 
